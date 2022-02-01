@@ -13,4 +13,4 @@ I'm an aspiring Full stack Developer, I have HTML, CSS and JavaScript under my b
 
 Currently I am learning Node.js and later React.js
 
-As you have read, I am looking forward to collaborating with you on any Node Projects you want to bring me into
+As you have read, I am looking forward to collaborating with you on any Node Project you want to bring me into
